@@ -34,7 +34,10 @@
  *
  * Description:
  * 
- *  Show a method to setup priority interrupts using timers.
+ *  Show 4-bit parallel interface for an HD44780 based LCD module
+ *  and scan a matrix of 17 buttons.
+ *
+ * See: https://www.microchip.com/forums/FindPost/1200456
  *
  */
 
