@@ -414,7 +414,7 @@ void main(void)
     LCD_SetPosition(LINE_ONE);
     LCD_puts("At ");LCD_puts(__TIME__);LCD_puts("     ");
     LCD_SetPosition(LINE_TWO);
-    LCD_puts("On ");LCD_puts(__DATE__);LCD_puts("   ");
+    LCD_puts("On ");LCD_puts(__DATE__);LCD_puts("  ");
     /*
      * Application loop
      */
